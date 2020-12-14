@@ -1,2 +1,3 @@
 # project1
 first repository
+ok this is a bit BS and complicated but who knows...
